@@ -1,0 +1,16 @@
+---
+kind: thread
+author: LightTreasure
+domain: youtube.com
+is_self: false
+created: 1409455781
+permalink: /r/Games/comments/2f230i/talking_about_realistic_audio_in_games_heres_a/
+id: 2f230i
+name: t3_2f230i
+subreddit: Games
+subreddit_id : t5_2qhwp
+title: Talking about Realistic Audio in games, here's a demo of UNC Chapel Hill's Audio Renderer in the Half-Life 2 game engine...
+url: https://www.youtube.com/watch?v=MQt1jtDBNK4
+---
+
+

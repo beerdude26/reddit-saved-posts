@@ -1,0 +1,22 @@
+---
+kind: thread
+author: ephrion
+domain: self.haskell
+is_self: true
+created: 1441031032
+permalink: /r/haskell/comments/3j36wc/haskell_tutorial_collection/
+id: 3j36wc
+name: t3_3j36wc
+subreddit: haskell
+subreddit_id : t5_2qh36
+title: Haskell Tutorial Collection
+url: https://www.reddit.com/r/haskell/comments/3j36wc/haskell_tutorial_collection/
+---
+
+The recent tutorial on the `time` package is awesome! It was only written once the community expressed a desire on here to have a tutorial for it.
+
+I wonder what else people are wanting a tutorial on, but haven't voiced it?
+
+Furthermore, I wonder what tutorials exist that aren't commonly linked to or available?
+
+To help answer those questions, I decided to start a [Github repository](https://github.com/parsonsmatt/hasktuts) to collect *requests* for beginner/introductory tutorials as well as links to tutorials. If you're wanting to see a tutorial for some library or idea, please submit an issue, and we can start getting this off the ground.

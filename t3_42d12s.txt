@@ -1,0 +1,18 @@
+---
+kind: thread
+author: onionsman
+domain: self.homelab
+is_self: true
+created: 1453587261
+permalink: /r/homelab/comments/42d12s/realtime_home_network_monitoring_solution/
+id: 42d12s
+name: t3_42d12s
+subreddit: homelab
+subreddit_id : t5_2ubz7
+title: Realtime home network monitoring solution
+url: https://www.reddit.com/r/homelab/comments/42d12s/realtime_home_network_monitoring_solution/
+---
+
+Hi Folks. I was pointed in your direction from the kind folks in /r/sysadmin. 
+
+I'm looking to set up an open source or free solution to do real time network monitoring on my home network. Ideally it would be a dashboard with all devices on the network and would display their usage / status. Another nice addition would for it do display some sort of alert when a device that is not recognized joins my network (or tries to). I have been tinkering with Spiceworks and Splunk, but figured I would run it by you fine folks before I put a lot of time and energy into figuring this out. Thanks in advance for any ideas. Cheers.

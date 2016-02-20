@@ -1,0 +1,16 @@
+---
+kind: thread
+author: FrontpageWatch
+domain: reddit.com
+is_self: false
+created: 1394527164
+permalink: /r/undelete/comments/204i68/21135527_whenever_i_see_something_with_zero_karma/
+id: 204i68
+name: t3_204i68
+subreddit: undelete
+subreddit_id : t5_2xv4u
+title: [#21|+1355|27] Whenever I see something with zero karma.
+url: http://www.reddit.com/r/funny/comments/203y5d/
+---
+
+

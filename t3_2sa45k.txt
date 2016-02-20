@@ -1,0 +1,16 @@
+---
+kind: thread
+author: jhereg10
+domain: en.wikipedia.org
+is_self: false
+created: 1421157684
+permalink: /r/todayilearned/comments/2sa45k/til_soldiers_in_wwii_made_simple_radios_using_a/
+id: 2sa45k
+name: t3_2sa45k
+subreddit: todayilearned
+subreddit_id : t5_2qqjc
+title: TIL soldiers in WWII made simple radios using a razorblade and pencil as the diode, dubbing them Foxhole Radios.
+url: https://en.wikipedia.org/wiki/Foxhole_radio
+---
+
+

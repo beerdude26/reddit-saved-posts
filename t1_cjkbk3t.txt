@@ -1,0 +1,15 @@
+---
+kind: comment
+author: lunarisbluemoon
+created: 1407481045
+id: cjkbk3t
+name: t1_cjkbk3t
+subreddit: haskell
+subreddit_id : t5_2qh36
+thread_id: t3_2cwdrp
+parent_comment: t3_2cwdrp
+---
+
+Shameless plug, but Chapters 2 and 3 of http://pubs.doc.ic.ac.uk/will-jones-phd-thesis/will-jones-phd-thesis.pdf aim to bridge one of the gaps (I think) you're describing, which in my mind is that between "Haskell 98 programmer" and "type system abuser". So no monads, comonads or performance tuning per se, but things like type classes, functional dependencies, rank-N types, overlapping and undecidable instances, phantom types, GADTs, etc. In essence, a subset of the tools useful for embedding domain-specific languages in Haskell, which is the overarching theme.
+
+Feedback gratefully received if you decide to read it and/or find it useful.

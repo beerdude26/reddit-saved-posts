@@ -1,0 +1,24 @@
+---
+kind: thread
+author: suntzusartofarse
+domain: self.haskell
+is_self: true
+created: 1433970194
+permalink: /r/haskell/comments/39ci9j/coming_from_php_working_in_haskell_is_like/
+id: 39ci9j
+name: t3_39ci9j
+subreddit: haskell
+subreddit_id : t5_2qh36
+title: Coming from PHP, working in Haskell is like programming in a straight jacket
+url: https://www.reddit.com/r/haskell/comments/39ci9j/coming_from_php_working_in_haskell_is_like/
+---
+
+But it's okay, it's for my long-term health.
+
+----
+
+I didn't even notice how I work in PHP: quickly hack some code together, get a proof of concept, see if that can be expanded to meet the requirements, then worry about building in error conditions, validation and other such things later. Working in Haskell + Snap (and with Haskell's type system) I'm forced to make something that works completely, instead of hacking together something that (almost) works and building from there.
+
+If I had understood my own terrible practices sooner, I would have done something about them, but it was Haskell that exposed me to myself.
+
+That Haskell shows the developer things about themselves even they didn't know is enough to make it worth learning. It's mind-bending and ideology-exposing.

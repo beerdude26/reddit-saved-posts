@@ -1,0 +1,16 @@
+---
+kind: thread
+author: joehillen
+domain: referaat.cs.utwente.nl
+is_self: false
+created: 1433798101
+permalink: /r/haskell/comments/392u66/pdf_building_a_functional_relational_database/
+id: 392u66
+name: t3_392u66
+subreddit: haskell
+subreddit_id : t5_2qh36
+title: [PDF] Building a Functional Relational Database
+url: http://referaat.cs.utwente.nl/conference/15/paper/7281/building-a-functional-relational-database.pdf
+---
+
+

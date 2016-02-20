@@ -1,0 +1,16 @@
+---
+kind: thread
+author: BoteboTsebo
+domain: dikgwahlapiso.wordpress.com
+is_self: false
+created: 1433015544
+permalink: /r/haskell/comments/37vna8/a_newb_me_wrote_a_haskell_library_and_unwisely/
+id: 37vna8
+name: t3_37vna8
+subreddit: haskell
+subreddit_id : t5_2qh36
+title: A newb (me) wrote a Haskell library, and unwisely decided to document the process to help other Haskell almost-no-longer-beginners.
+url: https://dikgwahlapiso.wordpress.com/2015/05/30/trials-and-tribulations-of-writing-my-first-real-haskell-package/
+---
+
+

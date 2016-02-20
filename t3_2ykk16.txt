@@ -1,0 +1,22 @@
+---
+kind: thread
+author: meiersi
+domain: self.haskell
+is_self: true
+created: 1426004137
+permalink: /r/haskell/comments/2ykk16/benefits_of_using_haskell_in_industry_do_you_have/
+id: 2ykk16
+name: t3_2ykk16
+subreddit: haskell
+subreddit_id : t5_2qh36
+title: Benefits of using Haskell in industry: do you have concrete numbers?
+url: https://www.reddit.com/r/haskell/comments/2ykk16/benefits_of_using_haskell_in_industry_do_you_have/
+---
+
+Dear Haskell reddit community, I'm in the process of convincing IBM management to evaluate Haskell as a language for building IBM cloud services. I have anecdotal evidence that there are other companies profiting from building infrastructure in Haskell and using functional approaches; i.e., Facebook ([React.js](http://facebook.github.io/react/blog/2015/02/18/react-conf-roundup-2015.html), [Hack](https://code.facebook.com/posts/264544830379293/hack-a-new-programming-language-for-hhvm/), Haxl and the [new job postings](http://www.reddit.com/r/haskell/comments/2useoq/haskell_opportunities_at_facebook/)), Standard Chartered ([Don's 2015 talk](https://drive.google.com/file/d/0B9CJGKvXP0UhLVRUamNFMnBZdzg/view?usp=sharing)), and [Jane Street Capital](https://www.janestreet.com/technology/). However, I'm lacking numbers relating the work of the Haskell teams to that of the teams using other languages (Java, C++, Python, OCaml, Scala, and F#). 
+
+- Do you have concrete numbers relating the team output?
+- Do you have numbers that quantify the difficulty of training or hiring Haskell developers?
+- Do you know where I could find such numbers to make a convincing case?
+
+I also greatly appreciate pointers and arguments that help me make a better, more objective case.

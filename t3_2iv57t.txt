@@ -1,0 +1,16 @@
+---
+kind: thread
+author: TheoEngland
+domain: skillsmatter.com
+is_self: false
+created: 1412956437
+permalink: /r/haskell/comments/2iv57t/video_erik_hesselink_on_rest_building_apis_easily/
+id: 2iv57t
+name: t3_2iv57t
+subreddit: haskell
+subreddit_id : t5_2qh36
+title: [Video] Erik Hesselink on REST - Building APIs Easily
+url: https://skillsmatter.com/skillscasts/5403-rest-building-apis-easily
+---
+
+

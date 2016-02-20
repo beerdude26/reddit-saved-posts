@@ -1,0 +1,15 @@
+---
+kind: comment
+author: etaoinshrdlu_
+created: 1409216431
+id: ck2nkar
+name: t1_ck2nkar
+subreddit: haskell
+subreddit_id : t5_2qh36
+thread_id: t3_2eszve
+parent_comment: t3_2eszve
+---
+
+Have you seen John Carmack's keynote from Quakecon 2013? He talks about functional programming and specifically Haskell in game development. 
+
+https://www.youtube.com/watch?v=1PhArSujR_A

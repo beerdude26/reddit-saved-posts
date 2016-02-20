@@ -1,0 +1,15 @@
+---
+kind: comment
+author: acog
+created: 1402859581
+id: ci89u7n
+name: t1_ci89u7n
+subreddit: todayilearned
+subreddit_id : t5_2qqjc
+thread_id: t3_2874lv
+parent_comment: t1_ci87xr3
+---
+
+If you liked that comment you should check out a cool podcast called [*A Way With Words*](http://www.waywordradio.org/). A linguist and a dictionary editor talk about the origins and usage of words and phrases. It sounds dry as dust but it's really interesting. It's a call in show and the hosts are astonishing in their knowledge. 
+
+They make a topic that by all rights should be boring into something quite entertaining.

@@ -1,0 +1,16 @@
+---
+kind: thread
+author: letrec
+domain: youtube.com
+is_self: false
+created: 1431345604
+permalink: /r/haskell/comments/35l5qp/recursion_schemes/
+id: 35l5qp
+name: t3_35l5qp
+subreddit: haskell
+subreddit_id : t5_2qh36
+title: Recursion Schemes
+url: https://www.youtube.com/attribution_link?a=FYzQ_ZP2c5U&amp;u=%2Fwatch%3Fv%3DZw9KeP3OzpU%26feature%3Dshare
+---
+
+

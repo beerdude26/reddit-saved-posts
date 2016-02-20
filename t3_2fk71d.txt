@@ -1,0 +1,16 @@
+---
+kind: thread
+author: MrEitsab
+domain: youtube.com
+is_self: false
+created: 1409933843
+permalink: /r/Games/comments/2fk71d/a_history_of_the_m1_garand_in_video_games_xpost/
+id: 2fk71d
+name: t3_2fk71d
+subreddit: Games
+subreddit_id : t5_2qhwp
+title: A history of the M1 Garand in video games. (X-post r/XboxAhoy)
+url: https://www.youtube.com/watch?v=6HEAA0C6a4Q
+---
+
+

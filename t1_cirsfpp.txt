@@ -1,0 +1,13 @@
+---
+kind: comment
+author: lappy482
+created: 1404843886
+id: cirsfpp
+name: t1_cirsfpp
+subreddit: AskReddit
+subreddit_id : t5_2qh1i
+thread_id: t3_2a5jfb
+parent_comment: t1_cirq14i
+---
+
+[For those uninitiated.] (http://youtube.com/watch?v=gNqiSkd1M6k)

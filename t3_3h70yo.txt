@@ -1,0 +1,16 @@
+---
+kind: thread
+author: UnacceptableUse
+domain: i.imgur.com
+is_self: false
+created: 1439728491
+permalink: /r/ProgrammerHumor/comments/3h70yo/frontend_vs_backend_programming/
+id: 3h70yo
+name: t3_3h70yo
+subreddit: ProgrammerHumor
+subreddit_id : t5_2tex6
+title: Frontend vs backend programming
+url: http://i.imgur.com/8px9Utc.gif
+---
+
+

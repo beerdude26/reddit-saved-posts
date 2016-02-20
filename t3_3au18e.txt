@@ -1,0 +1,16 @@
+---
+kind: thread
+author: knarkowicz
+domain: youtube.com
+is_self: false
+created: 1435070234
+permalink: /r/Games/comments/3au18e/shadow_warrior_2_e3_gameplay_1080p60fps/
+id: 3au18e
+name: t3_3au18e
+subreddit: Games
+subreddit_id : t5_2qhwp
+title: "Shadow Warrior 2" E3 gameplay 1080p/60fps
+url: https://www.youtube.com/watch?v=jJ45LTOwiwg
+---
+
+

@@ -1,0 +1,16 @@
+---
+kind: thread
+author: bebemaster
+domain: i.imgur.com
+is_self: false
+created: 1422564010
+permalink: /r/AnimalsWithoutNecks/comments/2u4c0r/sphnx_cts/
+id: 2u4c0r
+name: t3_2u4c0r
+subreddit: AnimalsWithoutNecks
+subreddit_id : t5_2v9h7
+title: sphnx cts
+url: http://i.imgur.com/I5JPVd8.jpg
+---
+
+

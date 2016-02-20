@@ -1,0 +1,13 @@
+---
+kind: comment
+author: ChaosForces
+created: 1404461862
+id: cioa1tb
+name: t1_cioa1tb
+subreddit: Games
+subreddit_id : t5_2qhwp
+thread_id: t3_29s4o4
+parent_comment: t1_cio86w2
+---
+
+Protip when playing Eternal Darkness: after a while, you'll be able to restore your sanity using spells, at a very low cost. Don't, or you'll miss the most interesting bits. 

@@ -1,0 +1,16 @@
+---
+kind: thread
+author: leakime
+domain: moddb.com
+is_self: false
+created: 1432611915
+permalink: /r/Games/comments/37abs7/mod_that_fixes_republic_commando_for_modern/
+id: 37abs7
+name: t3_37abs7
+subreddit: Games
+subreddit_id : t5_2qhwp
+title: Mod that fixes Republic Commando for modern graphics cards
+url: http://www.moddb.com/mods/star-wars-republic-commando-graphics-fix/downloads
+---
+
+

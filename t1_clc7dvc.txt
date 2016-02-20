@@ -1,0 +1,15 @@
+---
+kind: comment
+author: rampion
+created: 1413566530
+id: clc7dvc
+name: t1_clc7dvc
+subreddit: haskell
+subreddit_id : t5_2qh36
+thread_id: t3_2jivxa
+parent_comment: t1_clc50og
+---
+
+Preaching to the minister here, but others who want to learn more should read /u/evincarofautumn's ["Why Concatenative Programming Matters"](http://evincarofautumn.blogspot.com/2012/02/why-concatenative-programming-matters.html).
+
+To see people trying to play with row polymorphism in Haskell, take a look at the example code in /u/shangas' ["Concatenative, Row-Polymorphic Programming in Haskell"](https://github.com/leonidas/codeblog/blob/master/2012/2012-02-17-concatenative-haskell.md) and my ["Playing with Factor's Row Polymorphism in Haskell"](https://gist.github.com/rampion/1847747) (I cannot vouch for the quality of my code, it's over 2.5 years old now).

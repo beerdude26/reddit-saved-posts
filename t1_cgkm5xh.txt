@@ -1,0 +1,13 @@
+---
+kind: comment
+author: srenatus
+created: 1396690258
+id: cgkm5xh
+name: t1_cgkm5xh
+subreddit: haskell
+subreddit_id : t5_2qh36
+thread_id: t3_229e6k
+parent_comment: t3_229e6k
+---
+
+Have a look at [yesod-bin](https://github.com/yesodweb/yesod/blob/master/yesod-bin/main.hs#L156) that offers you a development server with `yesod devel` [that rebuilds when files change](https://github.com/yesodweb/yesod/blob/master/yesod-bin/Devel.hs#L240) (among other things).  It [uses GHC as a library](https://github.com/yesodweb/yesod/blob/master/yesod-bin/GhcBuild.hs) as [abac321 mentioned](http://www.reddit.com/r/haskell/comments/229e6k/how_does_automatic_code_reloading_in_haskell_web/cgkm2qw).

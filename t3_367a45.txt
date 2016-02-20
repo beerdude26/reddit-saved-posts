@@ -1,0 +1,16 @@
+---
+kind: thread
+author: dravindagan
+domain: en.wikipedia.org
+is_self: false
+created: 1431811053
+permalink: /r/todayilearned/comments/367a45/til_there_is_a_155_chapter_long_book_that_makes/
+id: 367a45
+name: t3_367a45
+subreddit: todayilearned
+subreddit_id : t5_2qqjc
+title: TIL there is a 155 chapter long book that makes sense no matter what chapter you choose to read first or last.
+url: http://en.wikipedia.org/wiki/Hopscotch_(Julio_Cort%C3%A1zar_novel)
+---
+
+

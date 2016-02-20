@@ -1,0 +1,13 @@
+---
+kind: comment
+author: citizen_coping
+created: 1401403040
+id: chudlr4
+name: t1_chudlr4
+subreddit: pics
+subreddit_id : t5_2qh0u
+thread_id: t3_26tlex
+parent_comment: t1_chuc525
+---
+
+http://i.imgur.com/sMHQGA0.gif

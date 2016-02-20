@@ -1,0 +1,13 @@
+---
+kind: comment
+author: mightybyte
+created: 1428498695
+id: cq59v96
+name: t1_cq59v96
+subreddit: haskell
+subreddit_id : t5_2qh36
+thread_id: t3_31uuwd
+parent_comment: t3_31uuwd
+---
+
+Very cool.  If the author is reading this, I would suggest taking a look at what Chris Smith did with [Haskell for Kids](https://cdsmith.wordpress.com/2011/08/16/haskell-for-kids-week-1/).  It's a great way to approach the math in a really tangible way.  Now, a few years down the line he has improved the infrastructure a bit and it is available at [codeworld.info](http://codeworld.info/).

@@ -1,0 +1,13 @@
+---
+kind: comment
+author: nefffffffffff
+created: 1404940739
+id: ciswlzz
+name: t1_ciswlzz
+subreddit: technology
+subreddit_id : t5_2qh16
+thread_id: t3_2a8z1w
+parent_comment: t1_cisvjv4
+---
+
+I'm pretty sure this is literally the phenomena where the word "meme" originates.

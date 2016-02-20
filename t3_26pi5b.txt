@@ -1,0 +1,16 @@
+---
+kind: thread
+author: ohgodhowdoesthiswork
+domain: techblog.realestate.com.au
+is_self: false
+created: 1401295566
+permalink: /r/haskell/comments/26pi5b/the_abject_failure_of_weak_typing/
+id: 26pi5b
+name: t3_26pi5b
+subreddit: haskell
+subreddit_id : t5_2qh36
+title: The abject failure of weak typing
+url: http://techblog.realestate.com.au/the-abject-failure-of-weak-typing/
+---
+
+

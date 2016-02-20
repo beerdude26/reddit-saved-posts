@@ -1,0 +1,82 @@
+---
+kind: thread
+author: Kiuhnm
+domain: self.haskell
+is_self: true
+created: 1434394685
+permalink: /r/haskell/comments/39y2lp/development_environment_for_haskell_on_windows/
+id: 39y2lp
+name: t3_39y2lp
+subreddit: haskell
+subreddit_id : t5_2qh36
+title: Development Environment for Haskell on Windows
+url: https://www.reddit.com/r/haskell/comments/39y2lp/development_environment_for_haskell_on_windows/
+---
+
+After a long process of trial and error, I've finally managed to set up a nice environment for Haskell on Windows.
+
+Here is how I did it in case you are another beginner in trouble.
+
+#GHC, Cabal and packages
+
+First of all, download and install the [Haskell Platform](https://www.haskell.org/platform/windows.html). The current version, 2014.2.0.0, has a bug: `cabal init` doesn't work.
+
+To fix that, upgrade cabal from version 1.18.x to version 1.20.0.0 with the following commands:
+
+1. cd c:\
+2. cabal update
+3. cabal install Cabal-1.20.0.0 cabal-install-1.20.0.0
+
+Now you need to delete or rename the executables in `C:\Program Files\Haskell Platform\2014.2.0.0\lib\extralibs\bin` (your directory might be different) so that the new cabal is visible. This way you don't need to mess with environment variables.
+
+Now you need to install some additional packages:
+
+1. cd c:\
+2. cabal install hlint stylish-haskell ghc-mod
+
+It's very likely that some packages will refuse to install. If the name of the offending package is `name`, you need to install the package like this:
+
+1. cabal unpack name
+2. cabal install ./name-x.x.x.x
+
+Of course, you must replace `name-x.x.x.x` with the exact directory created by the first command. Now you can remove the directory:
+
+* rd /s name-x.x.x.x
+
+It goes without saying that after you managed to install the offending package you need to reissue the command `cabal install hlint stylish-haskell ghc-mod`. Repeat this process as many times as you need.
+
+# IDE
+
+This is simple.
+
+Install [Intellij IDEA](https://www.jetbrains.com/idea/download/) (the community edition will do) and then install the plugin for Haskell authored by JetBrains.
+
+*DO NOT INSTALL HASKFORCE*
+
+The plugin by JetBrains is more complete. For instance you can start a Haskell REPL and send a .hs file to the REPL all without leaving the IDE.
+
+# Debugging
+
+Go to File-&gt;Settings-&gt;Build, Execution, Deployment-&gt;Haskell Debugger and choose GHCi as "Prefered (sic) Debugger".
+
+# Troubleshooting
+
+If you get a gchi-mod error in IntelliJ, copy `ghc.exe` from
+
+    C:\Program Files\Haskell Platform\2014.2.0.0\bin
+
+to
+
+    %AppData\cabal\bin
+
+If you do this, you also need to move `cabal.exe` from
+
+    %AppData\cabal\bin
+
+to
+
+    C:\Program Files\Haskell Platform\2014.2.0.0\lib\extralibs\bin
+
+If you copy `ghc.exe` but don't do this, `cabal init` and other commands won't work.
+
+#Please let me know if you have a cleaner way to set all this up on Windows. My method isn't pretty but it works.

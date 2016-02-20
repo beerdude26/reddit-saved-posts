@@ -1,0 +1,15 @@
+---
+kind: comment
+author: Owlstorm
+created: 1406556229
+id: cj9zw8i
+name: t1_cj9zw8i
+subreddit: AskReddit
+subreddit_id : t5_2qh1i
+thread_id: t3_2bxnyz
+parent_comment: t1_cj9wwd2
+---
+
+You guys need to check out the HD mod, it's sweeeet.
+
+https://sites.google.com/site/heroes3hd/eng/download

@@ -1,0 +1,16 @@
+---
+kind: thread
+author: bonestamp
+domain: np.reddit.com
+is_self: false
+created: 1451149284
+permalink: /r/bestof/comments/3yau33/uthebananaking_compares_parenting_to_being_a_sys/
+id: 3yau33
+name: t3_3yau33
+subreddit: bestof
+subreddit_id : t5_2qh3v
+title: /u/TheBananaKing compares parenting to being a sys admin -- it's surprisingly specific and useful advice, not to mention funny
+url: https://np.reddit.com/r/Parenting/comments/3yagfv/parenting_is_a_lot_like_sysadminning/
+---
+
+
